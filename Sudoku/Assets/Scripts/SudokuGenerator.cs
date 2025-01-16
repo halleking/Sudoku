@@ -6,7 +6,7 @@ public static class SudokuGenerator
 {
     private const int Rows = 9;
     private const int Columns = 9;
-    private const int BeginnerHidden = 5;
+    private const int BeginnerHidden = 35;
     private const int IntermediateHidden = 45;
     private const int AdvancedHidden = 60;
     private static readonly int[] Values = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };

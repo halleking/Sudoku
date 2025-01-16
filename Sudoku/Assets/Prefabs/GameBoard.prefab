@@ -35,7 +35,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 335, y: 0}
-  m_SizeDelta: {x: 5, y: 500}
+  m_SizeDelta: {x: 6, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8047499885526854274
 CanvasRenderer:
@@ -240,7 +240,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: -167.5}
-  m_SizeDelta: {x: 500, y: 5}
+  m_SizeDelta: {x: 500, y: 6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &247692558922740472
 CanvasRenderer:
@@ -315,7 +315,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 167.5, y: 0}
-  m_SizeDelta: {x: 5, y: 500}
+  m_SizeDelta: {x: 6, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2223997202471895671
 CanvasRenderer:
@@ -390,7 +390,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: -335}
-  m_SizeDelta: {x: 500, y: 5}
+  m_SizeDelta: {x: 500, y: 6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &954878862350427989
 CanvasRenderer:
@@ -567,8 +567,8 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 53, y: 53}
-  m_Spacing: {x: 2, y: 2}
+  m_CellSize: {x: 52, y: 52}
+  m_Spacing: {x: 3, y: 3}
   m_Constraint: 1
   m_ConstraintCount: 9
 --- !u!1001 &140913611157032248
