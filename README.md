@@ -9,6 +9,8 @@ The rules of sudoku are as follows:
 
 Selecting a cell highlights it and enables editing. Use your keyboard to enter a value 1-9 in the selected cell. Only the initially empty cells are editable. 
 
+The game is playable [here](https://halleking.github.io/Sudoku/)! 
+
 ## Puzzle Generation
 Start with an initially empty 9x9 grid represented as a 2D array. Starting in the top left corner, find the next empty cell. Randomly assign a value 1-9, verifying that this value follows the sudoku rules and does not already exist in the row, column, or sub-grid. If a valid value exists, continue the process on the next empty cell. If there is not a valid value for the cell, backtrack to the previous cell and change the value, then continue. Continue the process until the entire grid is filled.
 
